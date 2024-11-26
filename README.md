@@ -2,7 +2,7 @@
 
 This demo project shows you how to use webpack to bundle a frontend app which depends on `@rc-ex/core` and `@rc-ex/ws`.
 
-## Buffer is not defined
+## "Buffer is not defined"
 
 Browser doesn't support Buffer, you need to install and enable polyfill.
 
